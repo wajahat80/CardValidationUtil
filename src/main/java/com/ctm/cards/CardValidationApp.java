@@ -1,4 +1,4 @@
-package com.rwa.cards;
+package com.ctm.cards;
 
 import com.ctm.cards.validator.CardValidator;
 
